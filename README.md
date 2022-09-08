@@ -8,6 +8,13 @@
   * huristic search
   * back huristic search 
 
+
+# 용어
+* way : 데이터 클래스의 개수  (ex. 개고양이 분류기 - 2 way classification)
+* shot, point : 데이터의 개수
+* query : test data (엄연히 따지자면 validation data)
+* source : train data
+
 # Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks
 * BERT
 * MT-DNN
