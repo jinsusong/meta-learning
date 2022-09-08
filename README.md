@@ -1,6 +1,4 @@
 # meta-learning
-
-# base
 * metric-based
 * model-based
 * optimization-based
