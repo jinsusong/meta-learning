@@ -1,13 +1,11 @@
 # meta-learning
-
-# base
 * metric-based
 * model-based
 * optimization-based
- * First-Order-MAML
- * Normalized Negative Conditional Entropy
- * huristic search
- * back huristic search 
+  * First-Order-MAML
+  * Normalized Negative Conditional Entropy
+  * huristic search
+  * back huristic search 
 
 # Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks
 * BERT
