@@ -1,4 +1,11 @@
 # meta-learning
+
+# base
+* metric-based
+* model-based
+* optimization-based
+
+
 * [First-Order-MAML]()
 * Normalized Negative Conditional Entropy
 * 휴리스틱 역 검색
