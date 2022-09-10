@@ -31,5 +31,9 @@
 # Leveraging Task Transferability to Meta-learning for Clinical Section Classification with Limited Data
 * First-Order-MAML
 * Normalized Negative Conditional Entropy
+  * f를 source task로 학습 
+  * f에 target sample을 주면 target sample에 예측된 source label 지정
+  * Z = {x_i, ^y_i, z_i}   
+  * empirical joint distribution & empirical marginal distribution
 * huristic search
 * back huristic search 
