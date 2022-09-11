@@ -31,6 +31,7 @@
 # Leveraging Task Transferability to Meta-learning for Clinical Section Classification with Limited Data
 * First-Order-MAML
 * Normalized Negative Conditional Entropy
+  * 작업 간의 레이블 분포의 상관관계를 조사하고 작업 전달 가능성을 추정하기 위해 음의 조건부 엔트로피 
   * 도메인 내 데이터를 미세 조정하지 않고 소스 모델과 레이블이 지정된 target 샘플만 사용
   * f를 source task로 학습 
   * f에 target sample을 주면 target sample에 예측된 source label 지정
