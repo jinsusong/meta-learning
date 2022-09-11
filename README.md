@@ -43,4 +43,10 @@
   * replite 초기화 , bert 학습 
   * sampling batches 
    * Dou et al (2019) 동일한 전략 사용
+  * NNCE
+   * 분류기를 source Data로 학습 시킨다. X to Y
+   * target sample 입력으로 f 분류기를 통해 target sample에 대한 예측 레이블을 할당 
+   * target sample에 Z의 정답 라벨과 Y의 예측 라벨이 부착된다. ( xi, ^yi, zi ) 
+   * 계산한다. emprical joint distribution & emprical marginal distribution 
+   * source와 target label의 관계를 측정하기 위해 target class frequency를 정규화하여 클래스 불균형 문제를 
    
