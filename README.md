@@ -50,4 +50,6 @@
    * 계산한다. emprical joint distribution & emprical marginal distribution 
    * source와 target label의 관계를 측정하기 위해 target class frequency를 정규화하여 클래스 불균형 문제를 
    
-* CM , CR
+* CM , CR 혼동행렬 
+
+* 
